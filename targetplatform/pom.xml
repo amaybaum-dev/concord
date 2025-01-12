@@ -62,7 +62,7 @@
         <json.smart.version>2.3</json.smart.version>
         <jsqlparser.version>3.1</jsqlparser.version>
         <jsr305.version>3.0.2</jsr305.version>
-        <junit.version>4.13</junit.version>
+        <junit.version>4.13.1</junit.version>
         <kafka.client.version>2.4.0</kafka.client.version>
         <kubernetes.client.version>4.8.0</kubernetes.client.version>
         <launcher.version>0.128</launcher.version>
