@@ -93,7 +93,7 @@
         <siesta.version>2.3.2</siesta.version>
         <sisu.version>0.3.4</sisu.version>
         <slf4j.version>1.7.25</slf4j.version>
-        <sshd.version>1.6.0</sshd.version>
+        <sshd.version>2.18.0</sshd.version>
         <swagger.version>1.5.20</swagger.version>
         <sysoutslf4j.version>1.0.2</sysoutslf4j.version>
         <testcontainers.concord.version>0.0.21</testcontainers.concord.version>
